@@ -36,9 +36,7 @@ Make sure you have the following installed:
 
 
 
-### 2️ Clone or Create the Project
-If you’re starting fresh:
-
+### 2️ Create the Project
 bash
 
 npm create vite@latest my-landing
@@ -46,8 +44,8 @@ Then choose:
 
 yaml
 Copy code
-✔ Framework: React
-✔ Variant: JavaScript
+ Framework: React
+ Variant: JavaScript
 3️ Install Dependencies
 Install all required packages:
 

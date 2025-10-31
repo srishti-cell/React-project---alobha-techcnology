@@ -26,7 +26,7 @@ The landing UI includes:
 
 ##  Setup and Installation Guide
 
-Follow the steps below to set up and run this project locally 👇
+Follow the steps below to set up and run this project locally 
 
 ### 1️ Prerequisites
 Make sure you have the following installed:
